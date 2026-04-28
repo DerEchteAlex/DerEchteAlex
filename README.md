@@ -1,15 +1,9 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║          README.md — SYSTEM ACCESS GRANTED           ║
-╚══════════════════════════════════════════════════════╝
-```
-
 # SPANDAN KUMAR SAHU
 
-`// full-stack dev · KIIT CSE '26 · always building`
+`// full-stack dev · learner · always building`
 
 [![GitHub](https://img.shields.io/badge/GitHub-DerEchteAlex-b06eff?style=flat-square&logo=github&logoColor=white)](https://github.com/DerEchteAlex)
 [![Mail](https://img.shields.io/badge/Email-sahuaz1a@gmail.com-00ffcc?style=flat-square&logo=gmail&logoColor=white)](mailto:sahuaz1a@gmail.com)
@@ -46,19 +40,6 @@ Currently looking for an **internship or entry-level role** to ship real feature
 
 ---
 
-## `// tools.exe`
-
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-
-
 ## `// fun_facts[]`
 
 ```
@@ -68,13 +49,3 @@ Currently looking for an **internship or entry-level role** to ship real feature
 > Playing Hoyoverse games (Acheron Main)
 > Speaks: English · Hindi · Odia · Bengali
 ```
-
----
-
-<div align="center">
-
-
-
-*`SPANDAN::ONLINE ▮`*
-
-</div>
