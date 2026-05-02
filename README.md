@@ -5,8 +5,8 @@
 
 `// full-stack dev · learner · always building`
 
-[![GitHub](https://img.shields.io/badge/GitHub-DerEchteAlex-b06eff?style=flat-square&logo=github&logoColor=white)](https://github.com/DerEchteAlex)
-[![Mail](https://img.shields.io/badge/Email-sahuaz1a@gmail.com-00ffcc?style=flat-square&logo=gmail&logoColor=white)](mailto:sahuaz1a@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-DerEchteAlex-00ffcc?style=flat-square&logo=github&logoColor=white)](https://github.com/DerEchteAlex)
+[![Mail](https://img.shields.io/badge/Email-sahuaz1a@gmail.com-b06eff?style=flat-square&logo=gmail&logoColor=white)](mailto:sahuaz1a@gmail.com)
 
 </div>
 
